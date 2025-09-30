@@ -1,0 +1,17 @@
+body{ font-family: Arial, sans-serif; 
+     margin:0; 
+     padding:20px;
+
+   background-image: url("C:\Users\KREETHI\OneDrive\Pictures\Employeeimg.png");  
+   background-size: cover;           
+   background-position: center;      
+   background-attachment: fixed; 
+}
+.container{ max-width:900px; margin:0 auto;}
+.card{ background:#fff; padding:16px; margin:12px 0; border-radius:8px; box-shadow: 0 2px 6px rgba(0,0,0,0.06);}
+input{ display:block; margin:8px 0; padding:8px; width:100%; box-sizing:border-box;}
+button{ padding:8px 12px; margin-right:8px;}
+table{ width:100%; border-collapse:collapse;}
+th,td{ padding:8px; border-bottom:1px solid #eee; text-align:left;}
+.top{ display:flex; justify-content:flex-end; margin-bottom:8px;}
+
